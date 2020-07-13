@@ -4,5 +4,4 @@
 
 - 🏢 No momento, estou trabalhando na **Agencia Volve**
 - ⚙️ Uso Diariamente: `.php`, `.js`, `.html`, `.css`
-- 🌍 Ativo nas comunidades do **Brasil**
-- ⚡️ Um fato engraçado: Adoro ler sobre familia reais 
+- ⚡️ Um fato engraçado: Já li sobre a família real 20 vezes.
