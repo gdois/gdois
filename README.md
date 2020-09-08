@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-#### Desenvolvedor Back-end em São Paulo, Brasil.
+#### Back-end developer in São Paulo, Brazil.
 
-- 🏢 No momento, estou trabalhando na **Agencia Volve**
-- ⚙️ Uso Diariamente: `.php`, `.js`, `.html`, `.css`
-
-##
+- 🏢 At the moment, I am working on **Agencia Volve**
+- ⚙️ Daily Use: `.php`, `.js`, `.html`, `.css`
