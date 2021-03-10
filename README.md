@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **gio_exited@protonmail.com**
+- 📫 How to reach me **giovanni_soares@aol.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
