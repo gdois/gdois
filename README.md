@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [gio.vanni.app/about](gio.vanni.app/about)
 
-- ⚡ Fun fact **I like books**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gio_exited" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gio_exited" height="30" width="40" /></a>
