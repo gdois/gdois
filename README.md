@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumtz" alt="shumtz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gio_exited" target="blank"><img src="https://img.shields.io/twitter/follow/gio_exited?logo=twitter&style=for-the-badge" alt="gio_exited" /></a> </p>
-
 - 🔭 I’m currently working on [Agencia Volve](volveagencia.com.br)
 
 - 🌱 I’m currently learning **Devops and PHP**
