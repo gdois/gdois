@@ -3,21 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumtz" alt="shumtz" /></a> </p>
 
-- 🔭 I’m currently working on [Agencia Volve](volveagencia.com.br)
-
-- 🌱 I’m currently learning **Devops and PHP**
-
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-
-- 👨‍💻 All of my projects are available at [gio.vanni.app](gio.vanni.app)
-
-- 📝 I regularly write articles on [gio.vanni.app/blog](gio.vanni.app/blog)
-
-- 💬 Ask me about **HTML5, CSS3, Javascript, React, AJAX and Movies**
-
 - 📫 How to reach me **giovanni_soares@aol.com**
-
-- 📄 Know about my experiences [gio.vanni.app/about](gio.vanni.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
