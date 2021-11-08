@@ -21,5 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shumtz&" alt="shumtz" /></p>
 
-<h3 align="left">Now playing on Spotify!</h3>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=giovanni_41&cover_image=true&theme=default"></img>
