@@ -2,8 +2,6 @@
 <h3 align="center">Front-end developer</h3>
 
 - 📫 How to reach me **me@vanni.app**
-- 😃 A happy boy
-- 📚 I love books
 - 🎵 Music enthusiast
 - 🎥 Ghostbusters is one of my favorite movies.
 
