@@ -4,6 +4,3 @@
 - 📫 How to reach me **giovanni_soares@aol.com**
 - 🎵 Music enthusiast
 - 🎥 Ghostbusters is one of my favorite movies.
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumtz" alt="shumtz" /></a> </p>
